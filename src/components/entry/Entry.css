@@ -1,0 +1,30 @@
+.entry {
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+    padding: 0em 5em;
+    margin-top: 1em;
+    position: relative;
+}
+
+.entry:not(:last-child):after {
+    content: "";
+    width: 50%;
+    position: absolute;
+    bottom: -0.5em;
+    left: 25%;
+
+    border-bottom: 1px solid lightgrey;
+}
+
+.entry-title {
+    flex-grow: 1;
+}
+
+.entry-output {
+    min-width: 5em;
+    border: 1px solid lightgrey;
+    display: flex;
+    justify-content: center;
+    margin: 0em 2em;
+}
