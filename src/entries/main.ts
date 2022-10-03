@@ -1,4 +1,4 @@
-const entrySize = 6;
+const entrySize = 17;
 
 export type EntryCallback = () => Promise<string | number>;
 
