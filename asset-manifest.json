@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ts-euler/static/css/main.e745723d.css",
+    "main.js": "/ts-euler/static/js/main.5ab6c0f6.js",
+    "static/js/787.3e46b86a.chunk.js": "/ts-euler/static/js/787.3e46b86a.chunk.js",
+    "index.html": "/ts-euler/index.html",
+    "main.e745723d.css.map": "/ts-euler/static/css/main.e745723d.css.map",
+    "main.5ab6c0f6.js.map": "/ts-euler/static/js/main.5ab6c0f6.js.map",
+    "787.3e46b86a.chunk.js.map": "/ts-euler/static/js/787.3e46b86a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e745723d.css",
+    "static/js/main.5ab6c0f6.js"
+  ]
+}
